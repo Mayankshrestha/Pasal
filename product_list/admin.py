@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import product_spec
+from .models import Product_spec
 
 # Register your models here.
-admin.site.register(product_spec)
+admin.site.register(Product_spec)
